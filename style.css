@@ -594,6 +594,14 @@ label
 {
     color:white
 }
+footer>p
+{
+    height: 120px;
+    line-height: 120px;
+    font-size: 16px;
+    text-align: center;
+    color:#cacaca;
+}
 @media screen and (max-width: 1024px) {
     #header-logo {
         padding-left: 30px
